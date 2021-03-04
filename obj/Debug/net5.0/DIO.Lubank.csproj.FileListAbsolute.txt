@@ -1,0 +1,16 @@
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\bin\Debug\net5.0\DIO.Lubank.exe
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\bin\Debug\net5.0\DIO.Lubank.deps.json
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\bin\Debug\net5.0\DIO.Lubank.runtimeconfig.json
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\bin\Debug\net5.0\DIO.Lubank.runtimeconfig.dev.json
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\bin\Debug\net5.0\DIO.Lubank.dll
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\bin\Debug\net5.0\ref\DIO.Lubank.dll
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\bin\Debug\net5.0\DIO.Lubank.pdb
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\DIO.Lubank.csprojAssemblyReference.cache
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\DIO.Lubank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\DIO.Lubank.AssemblyInfoInputs.cache
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\DIO.Lubank.AssemblyInfo.cs
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\DIO.Lubank.csproj.CoreCompileInputs.cache
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\DIO.Lubank.dll
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\ref\DIO.Lubank.dll
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\DIO.Lubank.pdb
+C:\Users\luana\DIO\Aulas\Transferencias bancarias\dotnet\DIO.Lubank\obj\Debug\net5.0\DIO.Lubank.genruntimeconfig.cache
